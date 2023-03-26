@@ -71,6 +71,7 @@ export const works = readable([
     },
   },
   {
+    id: "bert",
     type: ["data"],
     link: {
       en: "https://towardsdatascience.com/japanese-multiclass-text-classification-with-97-accuracy-using-bert-11b1fdc7c27e",
