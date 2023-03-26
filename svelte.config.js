@@ -7,7 +7,7 @@ const config = {
   kit: {
     adapter: adapter(),
     paths: {
-      base: dev ? "" : "/home",
+      base: dev ? "" : "/home_new",
       relative: false,
     },
     alias: {
